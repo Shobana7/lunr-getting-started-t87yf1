@@ -67,7 +67,7 @@ const idx = builder.build();
 
 prtt({ idx });
 
-const results0 = idx.search('science');
+const results0 = idx.search('Earth');
 const results1 = idx.search('case');
 
 //prtt({ results0, results1 });
